@@ -23,7 +23,7 @@ class BestsellersSectionWidget extends StatelessWidget {
       name: 'Soy tundra',
       description: 'Zapach pizmu i mchu dębowego',
       price: 50,
-      imageUrl: AppImages.productSoyTundra,
+      imageUrl: AppImages.productLoveStory,
       cardColor: AppColors.cardMint,
     ),
     ProductModel(
